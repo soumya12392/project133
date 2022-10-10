@@ -1,0 +1,21 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #808080;
+    font-size: 35px;
+}
+
+a {
+    color: #f74382;
+	background: rgb(221, 221, 221);
+	padding: 15px;
+	float: none;
+	border-radius: 15px;
+}
